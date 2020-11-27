@@ -34,6 +34,17 @@ body {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
+.btn-lg {
+  background: #7C6C92;
+  color: black;
+  border-color: black;
+}
+
+.btn-lg:hover {
+  background: black;
+  color: #7C6C92;
+}
+
 form {
   font-family: 'Open Sans Condensed', sans-serif;
 }
