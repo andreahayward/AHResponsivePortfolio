@@ -17,4 +17,23 @@ body {
 
 .navbar {
   background-color: #7C6C92;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bolder;
 }
+
+.card-body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.card-title {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.jumbotron {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+form {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
