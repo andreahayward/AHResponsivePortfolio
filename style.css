@@ -27,6 +27,7 @@ body {
 
 .card-title {
   font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bolder;
 }
 
 .jumbotron {
