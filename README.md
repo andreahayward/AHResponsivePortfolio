@@ -13,11 +13,11 @@ UPDATE 11/27/2020 - updated portfolio page with more recent work, re-did CSS sty
 UPDATE 10/1/2020 - updated my portfolio page to add links to some of my recent work, my resume, and some formatting updates.
 
 About Me Page:
-![image](https://user-images.githubusercontent.com/67828728/94831272-85f34a80-03da-11eb-8ce5-5c0731ef15ab.png)
+![image](https://user-images.githubusercontent.com/67828728/100474505-c73c6980-30ae-11eb-976e-18476b8a5d7b.png)
 
 Contact Page:
-![image](https://user-images.githubusercontent.com/67828728/94831325-94d9fd00-03da-11eb-8b04-41168b7e5fc0.png)
+![image](https://user-images.githubusercontent.com/67828728/100474547-dd4a2a00-30ae-11eb-9bd2-ff0fcc2fc50c.png)
 
 Portfolio Page:
-![image](https://user-images.githubusercontent.com/67828728/94831360-a28f8280-03da-11eb-97b1-0162d3b6083f.png)
+![image](https://user-images.githubusercontent.com/67828728/100474581-f4891780-30ae-11eb-8ecd-183e57fd1f5b.png)
 
